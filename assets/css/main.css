@@ -2367,6 +2367,15 @@ input, select, textarea {
 			width: 48%;
 		}
 
+			ul.feature-icons img {
+				text-decoration: none;
+				display: inline-block;
+				position: relative;
+				vertical-align: top;
+				width: 100px;
+				height: 100px;
+			}
+
 			ul.feature-icons li:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
