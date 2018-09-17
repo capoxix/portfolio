@@ -2168,7 +2168,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 5px;
 			overflow: hidden;
 		}
 
@@ -2658,6 +2658,11 @@ input, select, textarea {
 			.features article .image img {
 				display: block;
 				width: 100%;
+
+			}
+			/*add link animation */
+			.features article .image img:hover {
+				border: 1px solid black;
 			}
 
 		.features article .inner {
@@ -2841,7 +2846,7 @@ input, select, textarea {
 
 		#footer .icons {
 			margin: 0 auto;
-			padding-left: 55px;
+			padding-left: 45px;
 			padding-right: 45px;
 			width: 200px;
 		}
