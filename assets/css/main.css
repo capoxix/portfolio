@@ -2834,6 +2834,8 @@ input, select, textarea {
 			line-height: 1em;
 			list-style: none;
 			padding: 0;
+			margin: 0 auto;
+			width: 200px;
 		}
 
 			#footer .copyright li {
