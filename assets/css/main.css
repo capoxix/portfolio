@@ -2658,7 +2658,7 @@ input, select, textarea {
 			.features article .image img {
 				display: block;
 				width: 100%;
-
+				height: 200px;
 			}
 			/*add link animation */
 			.features article .image img:hover {
